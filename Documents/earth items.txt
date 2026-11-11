@@ -1,0 +1,39 @@
+AS-10 Bulldog,not found,Primary,Earth
+Blackmaw AR-47,not found,Primary,Earth
+Coach Gun,not found,Primary,Earth
+Corrupted Aphelion,not found,Primary,Earth
+Corrupted Deceit,not found,Primary,Earth
+Corrupted Merciless,not found,Primary,Earth
+Huntmaster M1,not found,Primary,Earth
+Repulsor,not found,Primary,Earth
+Rusty Lever Action,not found,Primary,Earth
+Savior,not found,Primary,Earth
+Sporebloom,not found,Primary,Earth
+Starkiller,not found,Primary,Earth
+Widowmaker,not found,Primary,Earth
+Wrangler 1860,not found,Primary,Earth
+XMG57 Bonesaw,not found,Primary,Earth
+Corrupted Meridian ,not found,Secondary,Earth
+Corrupted Rune Pistol ,not found,Secondary,Earth
+MP60-R,not found,Secondary,Earth
+Repeater Pistol ,not found,Secondary,Earth
+Rusty Repeater,not found,Secondary,Earth
+Service Pistol,not found,Secondary,Earth
+Silverback Model 500,not found,Secondary,Earth
+Sureshot,not found,Secondary,Earth
+Tech 22,not found,Secondary,Earth
+Western Classic,not found,Secondary,Earth
+Hero's Sword,not found,Melee,Earth
+Iron Greatsword,not found,Melee,Earth
+Knuckle Dusters,not found,Melee,Earth
+Rusted Claws,not found,Melee,Earth
+Scrap Hammer,not found,Melee,Earth
+Scrap Hatchet,not found,Melee,Earth
+Scrap Staff,not found,Melee,Earth
+Smolder,not found,Melee,Earth
+Steel Flail,not found,Melee,Earth
+Steel Katana,not found,Melee,Earth
+Steel Scythe,not found,Melee,Earth
+Steel Spear,not found,Melee,Earth
+Steel Sword,not found,Melee,Earth
+World's Edge,not found,Melee,Earth
